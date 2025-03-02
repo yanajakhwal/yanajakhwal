@@ -41,4 +41,5 @@
 </div>
 <br>  
 
-<img src="https://github.com/yanajakhwal/yanajakhwal/blob/main/images/footer.png" width="100%"/>
+<!--
+<img src="https://github.com/yanajakhwal/yanajakhwal/blob/main/images/footer.png" width="100%"/> -->
