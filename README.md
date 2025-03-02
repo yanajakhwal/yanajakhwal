@@ -39,6 +39,5 @@
 - <samp>I play volleyball.
 </div>
 <br>  
-##
 
 <img src="https://github.com/yanajakhwal/yanajakhwal/blob/main/images/footer.png" width="100%"/>
