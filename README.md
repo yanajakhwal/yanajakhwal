@@ -1,6 +1,8 @@
 
 <img src="https://github.com/yanajakhwal/yanajakhwal/blob/main/images/header.png" width="100%"/>
 
+yjakhwal@uwaterloo.ca
+
 ## <p align="center"><h4 align="center"><samp>“You’ll never catalog every drop of water in the sea or wrest control from tempests, so don’t be distracted by the endless mysteries and terrors of the abyss. Instead, focus on the simple, vital task of rowing your boat.” — Phil Van Treuren</samp></h4></p>
 ##
 
