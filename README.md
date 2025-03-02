@@ -11,7 +11,7 @@
   <img align="left" alt="Email" width="100px" src="https://img.shields.io/badge/Email-364944?style=for-the-badge&logo=Gmail&logoColor=FFB0B0" />
 </a>
 -->
-![](https://github.com/yanajakhwal/yanajakhwal/header.png)
+<img src="https://github.com/yanajakhwal/yanajakhwal/blob/main/images/header.png" width="100%"/>
 
 ## <p align="center"><h4 align="center"><samp> Learning + Exploring </samp></h4></p>
 
