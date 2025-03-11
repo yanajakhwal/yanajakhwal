@@ -32,12 +32,12 @@
 <!-- <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br> -->
 
-- <samp><b>Cyber Security @ Royal Bank of Canada</b>
-- <samp><b>University of Waterloo - Statistics, BMath</b>
+- <samp>Cyber Security @ Royal Bank of Canada
+- <samp>University of Waterloo - Statistics, BMath
 - <samp>First Place in RunQL Challenge at the 2025 CxC Datathon
 - <samp>Machine Learning Engineering, Software Engineering, Data Science
 - <samp>I play volleyball.
-- <samp>yjakhwal@uwaterloo.ca
+- <samp>yjakhwal&ZeroWidthSpace;@uwaterloo.ca</samp>
 </div>
 <br>  
 
