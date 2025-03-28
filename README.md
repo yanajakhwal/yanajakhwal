@@ -36,7 +36,7 @@
 - <samp>University of Waterloo - Statistics, BMath
 - <samp>First Place in RunQL Challenge at the 2025 CxC Datathon
 - <samp>Machine Learning Engineering, Software Engineering, Data Science
-- <samp>I play volleyball.
+- <samp>I play volleyball and enjoy philosophy.
 - <samp>yjakhwal&ZeroWidthSpace;@uwaterloo.ca</samp>
 </div>
 <br>  
